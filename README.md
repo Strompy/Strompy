@@ -1,16 +1,26 @@
 ### Hi there 👋
+### I'm Phillip
+Turing grad 👨‍💻 and classical musican 🎼
+
+
+- 🔭 I’m currently working on this README!
+- 🌱 I’m currently learning Python
+- 💬 Ask me about classical music or hiking in Colorado
+- 📫 How to reach me: [Twitter](twitter.com/phillipstrom) || [LinkedIn](linkedin.com/in/phillipstrom/)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Bach used his *Brandenburg Concertos* as a job application for the court of Christian Ludwig, Margraf of Brandenburg
 
 <!--
 **Strompy/Strompy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on this README!
+- 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about classical music or hiking in Colorado
+- 📫 How to reach me: [Twitter](twitter.com/phillipstrom) || [LinkedIn](linkedin.com/in/phillipstrom/)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: 
 -->
