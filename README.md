@@ -8,7 +8,7 @@ Turing grad 👨‍💻 and classical musican 🎼
 - 💬 Ask me about classical music or hiking in Colorado
 - 📫 How to reach me: [Twitter](https://twitter.com/phillipstrom) || [LinkedIn](https://www.linkedin.com/in/phillipstrom/)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Bach used his *Brandenburg Concertos* as a job application for the court of Christian Ludwig, Margraf of Brandenburg
+- ⚡ Fun fact: Bach used his *Brandenburg Concertos* as a job application 
 
 <!--
 **Strompy/Strompy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
