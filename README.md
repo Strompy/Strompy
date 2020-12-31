@@ -6,7 +6,7 @@ Turing grad 👨‍💻 and classical musican 🎼
 - 🔭 I’m currently working on this README!
 - 🌱 I’m currently learning Python
 - 💬 Ask me about classical music or hiking in Colorado
-- 📫 How to reach me: [Twitter](twitter.com/phillipstrom) || [LinkedIn](linkedin.com/in/phillipstrom/)
+- 📫 How to reach me: [Twitter](https://twitter.com/phillipstrom) || [LinkedIn](https://www.linkedin.com/in/phillipstrom/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Bach used his *Brandenburg Concertos* as a job application for the court of Christian Ludwig, Margraf of Brandenburg
 
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about classical music or hiking in Colorado
-- 📫 How to reach me: [Twitter](twitter.com/phillipstrom) || [LinkedIn](linkedin.com/in/phillipstrom/)
+- 📫 How to reach me: [Twitter](https://twitter.com/phillipstrom) || [LinkedIn](https://www.linkedin.com/in/phillipstrom/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 
 -->
