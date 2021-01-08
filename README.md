@@ -10,6 +10,7 @@ Turing grad 👨‍💻 and classical musican 🎼
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Bach used his *Brandenburg Concertos* as a job application 
 
+
 <!--
 **Strompy/Strompy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
