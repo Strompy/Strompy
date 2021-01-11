@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I'm Phillip
-Turing grad 👨‍💻 and classical musican 🎼 currently seeking a new role 
+Turing grad 👨‍💻 and classical musican 🎼
 
 
 - 🔭 I’m currently working on this README!
