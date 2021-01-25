@@ -5,7 +5,7 @@ Turing grad 👨‍💻 and classical musican 🎼
 
 - 🔭 I’m currently working on this README!
 - 🌱 I’m currently learning Python
-- 💬 Ask me about classical music 🎼 hiking in Colorado 🏔 or Arsenal 🔴⚪️
+- 💬 Ask me about music 🎵 hiking in Colorado 🏔 or Arsenal 🔴⚪️
 - 📫 How to reach me: [Twitter](https://twitter.com/phillipstrom) || [LinkedIn](https://www.linkedin.com/in/phillipstrom/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Bach used his *Brandenburg Concertos* as a job application 
