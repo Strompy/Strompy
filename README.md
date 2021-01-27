@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 ### I'm Phillip
 Turing grad 👨‍💻 and classical musican 🎼
 
@@ -11,7 +11,7 @@ Turing grad 👨‍💻 and classical musican 🎼
 - ⚡ Fun fact: Bach used his *Brandenburg Concertos* as a job application 
 
 
-### &#x1f4c8; GitHub Stats 
+## &#x1f4c8; GitHub Stats 
 
 <a href="https://github.com/Strompy/Strompy">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Strompy&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
