@@ -4,7 +4,7 @@ Turing grad 👨‍💻 and classical musican 🎼
 
 
 - 🔭 I’m currently working on this README!
-- 🌱 I’m currently learning Bootstrap
+- 🌱 I’m currently learning Jekyll
 - 💬 Ask me about music 🎵 hiking in Colorado 🏔 or Arsenal 🔴⚪️
 - 📫 How to reach me: [Twitter](https://twitter.com/phillipstrom) || [LinkedIn](https://www.linkedin.com/in/phillipstrom/)
 - 😄 Pronouns: he/him
