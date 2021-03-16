@@ -8,7 +8,7 @@ Turing grad 👨‍💻 and classical musican 🎼
 - 💬 Ask me about music 🎵 hiking in Colorado 🏔 or Arsenal 🔴⚪️
 - 📫 How to reach me: [Twitter](https://twitter.com/phillipstrom) || [LinkedIn](https://www.linkedin.com/in/phillipstrom/)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Bach used his *Brandenburg Concertos* as a job application 
+- ⚡ Fun fact: fish and octopi will sometimes hunt together
 
 
 ## &#x1f4c8; GitHub Stats 
