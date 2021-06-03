@@ -3,7 +3,7 @@
 Turing grad 👨‍💻 and classical musican 🎼
 
 
-- 🔭 I’m currently working on a diet calculator for triathletes!
+- 🔭 I’m currently working on a nutrition calculator for triathletes!
 - 🌱 I’m currently learning Active Admin
 - 💬 Ask me about music 🎵 hiking in Colorado 🏔 or Arsenal 🔴⚪️
 - 📫 How to reach me: [Twitter](https://twitter.com/phillipstrom) || [LinkedIn](https://www.linkedin.com/in/phillipstrom/)
