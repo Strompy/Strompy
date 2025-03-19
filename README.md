@@ -3,7 +3,7 @@
 Fullstack developer 👨‍💻 and classical musican 🎼
 
 
-- 🔭 I’m currently working on healthcare solutions at Posterity Health 
+- 🔭 I’m currently working on healthcare solutions at Posterity Health - [GH profile](https://github.com/phillip-ph)
 - 💬 Ask me about music 🎵 movies 📽 or Arsenal 🔴⚪️
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/phillipstrom/)
 - 😄 Pronouns: he/him
