@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### I'm Phillip
-Turing grad 👨‍💻 and classical musican 🎼
+Fullstack developer 👨‍💻 and classical musican 🎼
 
 
 - 🔭 I’m currently working on healthcare solutions at Posterity Health 
